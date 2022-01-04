@@ -1,0 +1,19 @@
+body{
+    background-image: url("web-icons-background-vector-pattern-260nw-694413742.jpg");
+}
+.btn{
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ top: 0;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: palegreen;
+    color: hotpink;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
